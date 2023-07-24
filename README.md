@@ -25,7 +25,7 @@ This project aims to implement a custom version of the `printf` function in C. T
 
 1. Clone the repository:
 
-git clone https://github.com/<your-github-username>/printf.git
+git clone https://github.com/osunx/printf
 
 2. Compile the files using GCC:
 
